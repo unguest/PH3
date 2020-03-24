@@ -2,7 +2,7 @@ echo PH3 BY UNGUEST ---
 echo 'IF YOU DID NOT LAUNCHED IT AS ADMIN, QUIT AND DO SO :)'
 ram='r'
 read $ram
-sudo apt-get updtae && sudo apt-get install hping3
+sudo apt update && sudo apt install hping3
 clear
 echo enter the ip adress to ddos : 
 ip='0.0.0.0'
